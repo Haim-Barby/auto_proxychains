@@ -13,8 +13,13 @@ Efficient Data Retrieval: Continuously gather updated information from specified
 Technologies-
 Python: For writing the main scraping scripts.
 Bash: To manage the automation process.
+
+Course of Action-
+To execute the update_proxychains script, ensure that the required environment is set up. When run, this script automatically invokes the three auxiliary scripts developed in Python, which handle tasks such as retrieving the latest proxy lists, validating the proxies, and configuring them for use. This coordinated execution enables seamless updates to the proxy chains, ensuring that users can scrape data efficiently and securely from the target websites.
 Firefox: The preferred browser for proxy chaining.
 
 Usage-
 This tool is ideal for developers, researchers, and data analysts looking to automate web scraping tasks while maintaining anonymity through proxy servers.
 With auto_proxychains, you can save time and effort in your data collection processes.
+
+
